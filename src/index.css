@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: "Keania One", "sans-serif";
+  background-color: #0c1338;
+  width: 100%;
+  height: 100%;
+  padding: 30px;
+  color: #17CCC6;
+}
+
