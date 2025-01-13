@@ -14,7 +14,7 @@ export const ButtonLeft = () => {
         />
 
         <foreignObject x="50" y="10" width="184" height="48">
-          <div xmlns="http://www.w3.org/1999/xhtml">
+          <div>
             <button>Mint Now</button>
           </div>
         </foreignObject>

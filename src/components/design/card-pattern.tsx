@@ -15,7 +15,7 @@ export const CardPattern = () => {
           stroke="#17CCC6"
         />
         <foreignObject x="0" y="0" width="397" height="245">
-          <div xmlns="http://www.w3.org/1999/xhtml">
+          <div>
             <div className="flex gap-x-[15px]">
               <img
                 src="/image (1).png"

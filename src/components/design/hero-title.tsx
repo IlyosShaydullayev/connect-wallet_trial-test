@@ -19,7 +19,7 @@ export const HeroTitle = () => {
             stroke="#17CCC6"
           />
           <foreignObject x="20" y="0" width="465" height="74">
-            <div xmlns="http://www.w3.org/1999/xhtml" className="flex items-center justify-between">
+            <div className="flex items-center justify-between">
               <input
                 type="text"
                 placeholder="Search token by name..."

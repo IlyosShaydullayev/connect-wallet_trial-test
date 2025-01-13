@@ -27,7 +27,7 @@ export const SearchIcon = () => {
         />
 
         <foreignObject x="20" y="20" width="66" height="65">
-          <div xmlns="http://www.w3.org/1999/xhtml">
+          <div>
             <img src="/image.png" alt="search-icons" />
           </div>
         </foreignObject>

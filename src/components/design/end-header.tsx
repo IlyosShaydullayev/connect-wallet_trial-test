@@ -15,7 +15,6 @@ export const EndHeader = () => {
           />
           <foreignObject x="0" y="0" width="397" height="75">
             <div
-              xmlns="http://www.w3.org/1999/xhtml"
               className="flex items-center justify-evenly p-[10px] "
             >
               <div>

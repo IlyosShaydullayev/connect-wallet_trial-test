@@ -15,7 +15,7 @@ export const Button = () => {
           className="cursor-pointer"
         />
         <foreignObject x="30" y="15" width="200" height="100">
-          <div xmlns="http://www.w3.org/1999/xhtml" className="mr-auto">
+          <div className="mr-auto">
             Connect Wallet
           </div>
         </foreignObject>

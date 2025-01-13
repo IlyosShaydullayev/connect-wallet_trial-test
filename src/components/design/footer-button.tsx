@@ -30,7 +30,6 @@ export const FooterButton = () => {
 
           <foreignObject x="22" y="20" width="65" height="64">
             <div
-              xmlns="http://www.w3.org/1999/xhtml"
               className={select === 1 ? "text-[#17CCC6]" : "#164859"}
             >
               01
@@ -64,7 +63,6 @@ export const FooterButton = () => {
 
           <foreignObject x="22" y="20" width="65" height="64">
             <div
-              xmlns="http://www.w3.org/1999/xhtml"
               className={select === 2 ? "text-[#17CCC6]" : "#164859"}
             >
               02
@@ -98,7 +96,6 @@ export const FooterButton = () => {
 
           <foreignObject x="22" y="20" width="65" height="64">
             <div
-              xmlns="http://www.w3.org/1999/xhtml"
               className={select === 3 ? "text-[#17CCC6]" : "#164859"}
             >
               03
@@ -132,7 +129,6 @@ export const FooterButton = () => {
 
           <foreignObject x="22" y="20" width="65" height="64">
             <div
-              xmlns="http://www.w3.org/1999/xhtml"
               className={select === 4 ? "text-[#17CCC6]" : "#164859"}
             >
               04
@@ -166,7 +162,6 @@ export const FooterButton = () => {
 
           <foreignObject x="22" y="20" width="65" height="64">
             <div
-              xmlns="http://www.w3.org/1999/xhtml"
               className={select === 5 ? "text-[#17CCC6]" : "#164859"}
             >
               05
