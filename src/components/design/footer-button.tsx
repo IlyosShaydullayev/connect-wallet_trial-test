@@ -3,12 +3,11 @@ import { useState } from "react";
 export const FooterButton = () => {
   const [select, setSelect] = useState(1);
   return (
-    <div className="pt-[50px] mx-auto flex items-center justify-center gap-x-3">
+    <div className="md:pt-[50px] pt-[30px] mx-auto flex items-center justify-center gap-x-3">
       <div onClick={() => setSelect(1)}>
         <svg
           xmlns="http://www.w3.org/2000/svg"
-          width="65"
-          height="64"
+          style={{width: '100%', height: "auto", maxWidth: "65px"}}
           viewBox="0 0 65 64"
           fill="none"
           className="cursor-pointer"
@@ -40,8 +39,7 @@ export const FooterButton = () => {
       <div onClick={() => setSelect(2)}>
         <svg
           xmlns="http://www.w3.org/2000/svg"
-          width="65"
-          height="64"
+          style={{width: '100%', height: "auto", maxWidth: "65px"}}
           viewBox="0 0 65 64"
           fill="none"
           className="cursor-pointer"
@@ -73,8 +71,7 @@ export const FooterButton = () => {
       <div onClick={() => setSelect(3)}>
         <svg
           xmlns="http://www.w3.org/2000/svg"
-          width="65"
-          height="64"
+          style={{width: '100%', height: "auto", maxWidth: "65px"}}
           viewBox="0 0 65 64"
           fill="none"
           className="cursor-pointer"
@@ -106,8 +103,7 @@ export const FooterButton = () => {
       <div onClick={() => setSelect(4)}>
         <svg
           xmlns="http://www.w3.org/2000/svg"
-          width="65"
-          height="64"
+          style={{width: '100%', height: "auto", maxWidth: "65px"}}
           viewBox="0 0 65 64"
           fill="none"
           className="cursor-pointer"
@@ -139,8 +135,7 @@ export const FooterButton = () => {
       <div onClick={() => setSelect(5)}>
         <svg
           xmlns="http://www.w3.org/2000/svg"
-          width="65"
-          height="64"
+          style={{width: '100%', height: "auto", maxWidth: "65px"}}
           viewBox="0 0 65 64"
           fill="none"
           className="cursor-pointer"
